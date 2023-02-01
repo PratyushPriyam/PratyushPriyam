@@ -1,4 +1,3 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.bing.com/images/search?view=detailV2&ccid=jaun7P9W&id=579D66B1A8F3A5B50BD1440FB7AA36C513B0ECA5&thid=OIP.jaun7P9Wvx2jytooaandUwHaC9&mediaurl=https%3a%2f%2fraw.githubusercontent.com%2fprafful98%2fprafful98%2fmaster%2fbanner.png&exph=5440&expw=13616&q=github+banners&simid=608039671588924543&FORM=IRPRST&ck=CF0DB74A849A688A3E659E717CEC8DFF&selectedIndex=9&ajaxhist=0&ajaxserp=0))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pratyush Priyam</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
