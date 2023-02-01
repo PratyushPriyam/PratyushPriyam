@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushpriyam&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushpriyam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyushpriyam" alt="pratyushpriyam" /></a> </p>
+<p align="left"> <a href="h![bg](https://user-images.githubusercontent.com/74448094/216015935-938c296c-9f45-4177-9d46-f218f067dad1.gif)
+ttps://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyushpriyam" alt="pratyushpriyam" /></a> </p>
 
 - 🌱 I’m currently learning **various aspects of development using different languages.**
 
